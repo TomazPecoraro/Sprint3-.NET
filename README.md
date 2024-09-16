@@ -63,7 +63,7 @@ Antes de rodar a API, certifique-se de ter os seguintes itens instalados:
      ```bash
      dotnet run --project Sprint3.API/Sprint3.API.csproj
      ```
-   - A API estará disponível em `https://localhost:5001` por padrão.
+   - A API estará disponível em `https://localhost:5116` por padrão.
 
 2. **Acessar a Documentação da API:**
    - A documentação Swagger pode ser acessada navegando para:
